@@ -29,6 +29,7 @@ npm run dev
 ```
 ## Github Repo 📁
 
-    ### [Github Repo](https://github.com/harshalgondane33/Portfolio) 👉 https://github.com/harshalgondane33/Portfolio
+[Github Repo](https://github.com/harshalgondane33/Portfolio) 
 
 ## Demo 🚀
+[Live](https://portfolio-sigma-one-8ymo9jqez3.vercel.app/)

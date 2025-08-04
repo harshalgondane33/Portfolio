@@ -78,7 +78,7 @@ export default function Resume() {
               boxShadow: '0px 0px 10px 0px rgba(0,0,0,0.35)',
             }}
             className=""
-            src="/resume/Harshal-resume.png"
+            src="/resume/Harshal-Resume.png"
             alt=""
           />
           <div className="my-4">
